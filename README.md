@@ -17,9 +17,11 @@ short clip from the movie of Owen Wilson saying his iconic "wow".
 
 ## Acknowledgements 
 
--[The Owen Wilson Wow API](https://owen-wilson-wow-api.herokuapp.com/)
--[Avi Mamenko](https://amamenko.github.io/)
--[Ooblek](https://codepen.io/ooblek/)
+[The Owen Wilson Wow API](https://owen-wilson-wow-api.herokuapp.com/)
+
+[Avi Mamenko](https://amamenko.github.io/)
+
+[Ooblek](https://codepen.io/ooblek/)
 
 
 
